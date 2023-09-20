@@ -2,8 +2,6 @@
 
 - 📫 How to reach me: [telegram](https://t.me/dasmodal)
 
-- 📄 Know about my experiences [cv](https://dasmodal.github.io/cv/)
-
 ### Languages and Tools
 
 <p align="left">
